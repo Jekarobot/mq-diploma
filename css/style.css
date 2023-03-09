@@ -1123,6 +1123,11 @@ a.menu__item:hover {
       margin: 0 auto;
     }
 
+    .card__shop__content {
+      margin: -29px -20px;
+      padding: 29px 20px;
+    }
+
 }
 
 .container__footer {
