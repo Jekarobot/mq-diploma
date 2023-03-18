@@ -341,9 +341,9 @@
     </footer>
     <div class="popup">
         <div class="popup-content">
-        	<button class="close"></button>
+            <button class="close">Close</button>
             <h3 class="popup-title">Ваш фидбек</h3>
-            <div class="dropdown">
+            <form action="#" class="dropdown">
                 <label class="question">Как часто вы заходите на сайт?</label>
                 <select>
                     <option>Почти каждый день</option>
@@ -351,25 +351,26 @@
                     <option>Раз в несколько недель</option>
                     <option>Несколько раз в год</option>
                 </select>
-            </div>
-            <div class="radio-container">
-                <label class="question">Вы подписаны на e-mail рассылку?</label>
-                <label class="mail-sub">
-                    <input type="radio" name="option" value="option1" class="radio-btn">
-                    Да
-                </label>
-                <label class="mail-sub">
-                    <input type="radio" name="option" value="option2" class="radio-btn">
-                    Нет
-                </label>
-            </div>
-            <div class="popup-text">
+            </form>
+            <form action="#" class="radio-container">
+                <fieldset class="fieldset">
+                    <legend>Вы подписаны на e-mail рассылку?</legend>
+                    <label class="mail-sub">
+                        <input type="radio" name="option" value="option1" class="radio-btn">
+                        Да
+                    </label>
+                    <label class="mail-sub">
+                        <input type="radio" name="option" value="option2" class="radio-btn">
+                        Нет
+                    </label>
+                </fieldset>
+            </form>
+            <form action="#" class="popup-text">
                 <label class="question">Расскажите, какой контент вы хотели бы видеть на нашем сайте?</label>
-                <textarea type="form" id="input-field" name="input-field" placeholder="Может, больше рецептов?"></textarea>
-    		</div>
-    		<button class="send">Отправить</button>
-    	</div>
-    	
+                <textarea class="form" id="input-field" name="input-field" placeholder="Может, больше рецептов?"></textarea>
+            </form>
+            <button class="send">Отправить</button>
+        </div>
     </div>
 </body>
 

@@ -201,7 +201,7 @@ main {
     color: white;
     z-index: 2;
 
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 45px;
     font-weight: bold;
     line-height: 75px;
@@ -228,7 +228,7 @@ main {
     z-index: 2;
     position: relative;
 
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 13px;
     text-transform: uppercase;
 
@@ -253,7 +253,7 @@ a.menu-item:hover {
 }
 
 .title-main {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 20px;
     font-weight: bold;
     line-height: 29px;
@@ -369,7 +369,7 @@ a.menu-item:hover {
 }
 
 .trend-category {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 14px;
     font-weight: bold;
     line-height: 29px;
@@ -384,7 +384,7 @@ a.menu-item:hover {
 }
 
 .trend-title {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 2em;
     font-weight: bold;
     line-height: 25px;
@@ -431,7 +431,7 @@ a.menu-item:hover {
     display: flex;
 
 
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 14px;
     font-weight: bold;
     line-height: 35px;
@@ -449,7 +449,7 @@ a.menu-item:hover {
 }
 
 .title-post {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 20px;
     font-weight: bold;
     line-height: 24px;
@@ -471,7 +471,7 @@ a.menu-item:hover {
 }
 
 .date {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 12px;
     font-weight: normal;
 
@@ -479,7 +479,7 @@ a.menu-item:hover {
 }
 
 .date-aside {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 12px;
     font-weight: normal;
 
@@ -488,13 +488,13 @@ a.menu-item:hover {
 }
 
 .author {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 12px;
     font-weight: bold;
 }
 
 .post-text {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 15px;
     line-height: 22px;
     font-weight: normal;
@@ -519,7 +519,7 @@ a.menu-item:hover {
 .title-side-h3 {
     margin: 0 auto 0 auto;
 
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 14px;
     font-weight: bold;
 
@@ -572,7 +572,7 @@ a.menu-item:hover {
 .side-post-h3 {
     padding-top: 3px;
 
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 14px;
     font-weight: bold;
 
@@ -605,7 +605,7 @@ a.menu-item:hover {
 
     display: inline-block;
 
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 13px;
     font-weight: normal;
 
@@ -670,7 +670,7 @@ a.menu-item:hover {
 
     background-color: #b59f5b;
 
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 14px;
     font-weight: bold;
     color: white;
@@ -711,7 +711,7 @@ a.menu-item:hover {
     padding: 5px 16px 7px 12px;
     border: 3px solid #eeeeee;
 
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 12px;
     font-weight: bold;
 
@@ -745,7 +745,7 @@ a.menu-item:hover {
 }
 
 .category-aside {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 14px;
     font-weight: bold;
 
@@ -767,7 +767,7 @@ a.menu-item:hover {
 
     margin-left: 5px;
 
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
 
     vertical-align: 4px;
 }
@@ -831,7 +831,7 @@ a.menu-item:hover {
 }
 
 .title-shop-h3 {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 20px;
     font-weight: bold;
 
@@ -841,7 +841,7 @@ a.menu-item:hover {
 }
 
 .shop-text {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 15px;
     font-weight: normal;
 
@@ -861,7 +861,7 @@ a.menu-item:hover {
 
 
 .old-price {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 14px;
     font-weight: bold;
     text-decoration: line-through;
@@ -870,7 +870,7 @@ a.menu-item:hover {
 }
 
 .new-price {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 20px;
     font-weight: bold;
 
@@ -890,7 +890,7 @@ a.menu-item:hover {
     cursor: pointer;
 
     color: white;
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 14px;
     font-weight: bold;
 
@@ -958,7 +958,7 @@ a.menu-item:hover {
 }
 
 .copyright {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 12px;
     font-weight: bold;
 
@@ -997,7 +997,7 @@ a.menu-item:hover {
 }
 
 .popup-title {
-    font-family: open sans, sans-serif, arial;
+    font-family: "open sans", sans-serif, arial;
     font-size: 2em;
     font-weight: bold;
     line-height: 29px;
@@ -1035,8 +1035,18 @@ a.menu-item:hover {
   text-align: left;
   width: 100%;
 
-  font-family: open sans, sans-serif, arial;
+  font-family: "open sans", sans-serif, arial;
   font-size: 13px;
+}
+
+.fieldset {
+  text-align: left;
+  width: 100%;
+
+  font-family: "open sans", sans-serif, arial;
+  font-size: 13px;
+
+  position: relative;
 }
 
 .dropdown select {
@@ -1100,7 +1110,9 @@ input[type="radio"] {
   position: relative;
   top: 50%;
   left: 15%;
-  transform: translate(-50%, -50%);
+  transform: translate(-42%, 24%);
+
+  font-family: "open sans", sans-serif, arial;
 }
 
 input[type="radio"]:checked:after {
@@ -1118,7 +1130,7 @@ input[type="radio"]:checked:after {
   border-radius: 50%;
 }
 
-textarea[type="form"] {
+.form {
 
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -1137,12 +1149,12 @@ textarea[type="form"] {
   font-size: 13px;
   margin-bottom: 20px;
 
-  font-family: open sans, sans-serif, arial;
+  font-family: "open sans", sans-serif, arial;
 
   resize: none;
 }
 
-textarea[type="form"]:hover {
+.form:hover {
     border: 1px solid #b59f5b;
 }
 
@@ -1164,7 +1176,7 @@ textarea[type="form"]:hover {
 
   background-color: #b59f5b;
 
-  font-family: open sans, sans-serif, arial;
+  font-family: "open sans", sans-serif, arial;
   font-size: 14px;
   font-weight: bold;
   color: white;
@@ -1198,6 +1210,8 @@ textarea[type="form"]:hover {
   border: 0;
 
   cursor: pointer;
+
+  font-size: 0;
 }
 
 @media (max-width: 1199px) {
@@ -1287,7 +1301,7 @@ textarea[type="form"]:hover {
     }
 
     .card-trend {
-        width: 44.5%;
+        width: 44.4%;
         height: 235px;
 
         font-size: 9px;
@@ -1602,5 +1616,49 @@ textarea[type="form"]:hover {
       margin-top: 50px;
       margin-left: 10px;
     }
+
+}
+
+@media (min-width: 641px) and (max-width: 1200px) and (orientation: landscape) {
+  .title {
+    margin: 0 auto;
+    left: 0;
+  }
+
+  .trends {
+    justify-content: space-around;
+  }
+
+  .card-trend {
+    box-sizing: content-box;
+    width: 18vw;
+  }
+
+  .card-trend-content {
+    font-size: 5px;
+    width: 75%;
+  }
+
+  .trend-category-box {
+    gap: 4px;
+  }
+
+  .trend-category {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 640px) and (orientation: landscape) {
+    .trends {
+    justify-content: space-around;
+  }
+
+     .card-trend {
+    width: 41%;
+  }
+
+      .card-trend-content {
+    width: 75%;
+  }
 
 }
